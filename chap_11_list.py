@@ -40,6 +40,7 @@ def test(did_pass):
         msg = ("Test at line {0} FAILED.".format(linenum))
     print(msg)
 
+
 def add_vectors(u, v):
     result = []
     for (i, val) in enumerate(v):
