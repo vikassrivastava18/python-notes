@@ -3,7 +3,8 @@ students = [
     ("Vusi", ["Maths", "CompSci", "Stats"]),
     ("Jess", ["CompSci", "Accounting", "Economics", "Management"]),
     ("Sarah", ["InfSys", "Accounting", "Economics", "CommLaw"]),
-    ("Zuki", ["Sociology", "Economics", "Law", "Stats", "Music"])]
+    ("Zuki", ["Sociology", "Economics", "Law", "Stats", "Music"])
+]
 
 counter = 0
 
